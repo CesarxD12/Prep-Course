@@ -1,22 +1,24 @@
-<style>
-
 h1 {
     color: orange;
+   height: 50px;
+   width: 120px;
+    background-color: black;
 }
 img {
     width: 400px;
+    height: 300px;
 }
 
 #thirdDiv{
-    height: 500px;
-    width: 600px;
+    height: 600px;
+    width: 550px;
     background-color:rgb(62, 30, 176);
     padding:50px;
     border: 10px solid rgb(186, 229, 12);
+        margin-top: 50px;
 }   
 #spanid{
     font-size: 18px;
     margin: 50px;
 }
 
-</style>
